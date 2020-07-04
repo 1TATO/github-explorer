@@ -15,7 +15,8 @@
 </p>
 
 <p align="center">
-  <img alt="Password generator" src="https://github.com/1TATO/github-explorer/blob/master/.github/githubExplorer.png" height="600px"  />
+  <img alt="Password generator" src="https://github.com/1TATO/github-explorer/blob/master/.github/githubExplorer.png" height="509px"  />
+  <img alt="Password generator" src="https://github.com/1TATO/github-explorer/blob/master/.github/githubExplorer-2.png" height="500px"  />
 </p>
 
 
